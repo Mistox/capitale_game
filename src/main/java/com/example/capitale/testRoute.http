@@ -1,0 +1,8 @@
+###
+GET localhost:8080/countries
+
+### Response
+GET localhost:8080/countries/7/Touglas
+
+### Response
+GET localhost:8080/countries/7/Douglas
